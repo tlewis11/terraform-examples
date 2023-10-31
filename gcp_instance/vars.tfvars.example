@@ -1,0 +1,8 @@
+gcp_project = ""
+email = ""
+scopes = [""]
+instance_type = "n1-standard-1"
+instance_name = "tlewis11-test"
+subnet = ""
+zone = "us-east4-c"
+accelerator_type = ""
